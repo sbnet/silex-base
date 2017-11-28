@@ -9,11 +9,11 @@
     }
   },
   "require": {
+    "php": ">=5.5.9",
     "silex/silex": "~2.0",
     "twig/twig": "^1.35",
     "symfony/twig-bridge": "^3.3",
     "symfony/var-dumper": "^3.3",
-    "symfony/asset": "^3.3",
-    "moust/silex-cache": "~2.0"
+    "symfony/asset": "^3.3"
   }
 }
